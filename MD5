@@ -1,0 +1,17 @@
+2058339c40de6cea4bd3b7ae3e1dbd4a *DESCRIPTION
+2d277e3a6588799074ec181a901a1a08 *NAMESPACE
+c93ec1209e00d3de619d7dd74fb38eef *R/booties.R
+11cc05887091d0e0e9bf1f807d2cbf0b *R/comp.div.R
+aa4e51c769eddefe2813fc75e2aa96de *R/div.part.R
+9ae07660b09d74f64f5205bd113312c5 *R/dz.R
+7a68180ab961f42eeefcdfbad28599a3 *R/hierDiversity-internal.R
+b03a64a7e954bf64a70a3cb8f125409a *R/hierDiversity.R
+4dfff961a4543e192a76edc10ef45773 *R/normalizeRows.R
+af81793724b11732695c8cfb25e19d75 *R/pqSum.R
+66a73f4d0c90f05e698420b06cdfaf12 *R/reSample.R
+4edda9b3b1df25065dd1c68aea64e1b8 *data/milkweedData.rda
+117c4995c0e6336f99c1b3f2470dccf7 *data/milkweedVars.rda
+c7808628fa4902199e83cc8b301d6fde *man/dz.Rd
+b3e9da09c69b778383f72aa35cb60b55 *man/hierDiversity-package.Rd
+731eea6ce154ab3867c9ce926c50ce52 *man/hierDiversity.Rd
+44a97788af26c351a3ddb3779978a767 *man/milkweedData.Rd
